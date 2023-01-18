@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
 # blog-example
 Built using simple react concepts, with useEffect and useState
 =======
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
